@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580289670385",
+    "firebase_url": "https://semestralnapraca-39db6.firebaseio.com",
+    "project_id": "semestralnapraca-39db6",
+    "storage_bucket": "semestralnapraca-39db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580289670385:android:5966b31505d8dcb279cd50",
+        "android_client_info": {
+          "package_name": "com.example.semestalnapraca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580289670385-36osajshtg45nk6ufqinvsisn29ib6qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURZUX7Npcbvn61veWsUJJHS3S8P1Smo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580289670385-36osajshtg45nk6ufqinvsisn29ib6qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
